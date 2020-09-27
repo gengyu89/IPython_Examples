@@ -38,7 +38,7 @@ Most of the ideas were inspired by Oluwaseun Fadugba's studies.
   CPU times: user 4.19 s, sys: 478 ms, total: 4.67 s
   Wall time: 4.05 s
   ```
-* GMT-style maps created in Python (`ngl_examples.sh` and `basemap_module.ipynb`)
+* GMT-style maps created in Python (`ngl_examples.ipynb` and `ngl_examples.sh`)
   <img src="./output/ngl_report/newcolor1.png" width="720px" />
   <img src="./output/ngl_report/topo1.png" width="720px" />
 
